@@ -1,0 +1,48 @@
+_repo: Lessons-of-the-war-with-Spain-and-other-articles_28377
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mahan, A. T. (Alfred Thayer)
+    aliases:
+    - Mahan, Alfred T.
+    - Mahan, Alfred Thayer
+    birthdate: 1840
+    deathdate: 1914
+    gutenberg_agent_id: '5116'
+    url: http://www.gutenberg.org/2009/agents/5116
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Thayer_Mahan
+description: 'Introductory: Comprehension of military and naval matters possible to
+  the people, and important to the Nation.- How the motive of the war gave direction
+  to its earlier movements. Strategic value of Puerto Rico.- Consideration on the
+  size and qualities of battleships.- Mutual relations of coast defence and navy.-
+  The effect of deficient coast-defence upon the movements of the Navy.- The military
+  and naval conditions of Spain at the outbreak of the war.- Possibilities open to
+  the Navy at the beginning of the war.- The reasons for blockading Cuba.- First movements
+  of the squadrons under Admirals Sampson and Cervera.- Problems presented by Cervera''s
+  appearance in West Indian waters.- Movements of the United States divisions and
+  of the Oregon.- Fuctions of cruisers in a naval campaing.- The Guard set over Cervera.-
+  Influence of inadequate numbers upon the conduct ofnaval and military operations.-
+  Camara''s rush through the Mediterranean, and consequent measures taken by the United
+  States.- The Peace Conference and the moral aspect of war.- The relations of the
+  united States to their new dependencies.- Distinguishing qualities of ships of war.-
+  Current fallacies upon naval subjects.'
+gutenberg_issued: '2009-03-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28377'
+  lccn: '00000512'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E660'
+- !lcsh 'United States -- Colonial question'
+- !lcsh 'International Peace Conference (1st : 1899 : Hague, Netherlands)'
+- !lcsh 'Spanish-American War, 1898 -- Naval operations'
+- !lcsh 'Naval art and science'
+title: Lessons of the war with Spain and other articles
+url: http://www.gutenberg.org/ebooks/28377
